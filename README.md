@@ -16,3 +16,12 @@ Bu proje, bankacılık verilerini görselleştirerek stratejik karar alma süre�
 ## 🚀 Nasıl Çalıştırılır?
 1. Depoyu klonlayın.
 2. `QNB_Report.pbix` dosyasını Power BI Desktop ile açın.
+
+## Kullanılan Teknolojiler
+Power BI Desktop (Görselleştirme ve Raporlama)
+
+DAX (Hesaplanmış sütunlar ve ölçüler için)
+
+Power Query (M Language) (Veri temizleme ve ETL)
+
+SQL / Excel 
